@@ -1,0 +1,18 @@
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\UnitTestProject1\bin\Debug\CShapRefactoring.dll
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\UnitTestProject1\bin\Debug\CShapRefactoring.pdb
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\UnitTestProject1\obj\Debug\CSharpRefactoringTests.csprojResolveAssemblyReference.cache
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\alumno\Desktop\CShapRefactoring - init\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\alumno\Desktop\CShapRefactoring - init\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\alumno\Desktop\CShapRefactoring - init\UnitTestProject1\bin\Debug\CShapRefactoring.dll
+C:\Users\alumno\Desktop\CShapRefactoring - init\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\alumno\Desktop\CShapRefactoring - init\UnitTestProject1\bin\Debug\CShapRefactoring.pdb
+C:\Users\alumno\Desktop\CShapRefactoring - init\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\alumno\Desktop\CShapRefactoring - init\UnitTestProject1\obj\Debug\CSharpRefactoringTests.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\CShapRefactoring - init\UnitTestProject1\obj\Debug\CSharpRefactoringTests.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\CShapRefactoring - init\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\alumno\Desktop\CShapRefactoring - init\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

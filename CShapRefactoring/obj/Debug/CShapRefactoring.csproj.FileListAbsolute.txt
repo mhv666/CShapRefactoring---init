@@ -1,0 +1,16 @@
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\CShapRefactoring\obj\Debug\CShapRefactoring.csprojResolveAssemblyReference.cache
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\CShapRefactoring\bin\Debug\CShapRefactoring.dll
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\CShapRefactoring\bin\Debug\CShapRefactoring.pdb
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\CShapRefactoring\obj\Debug\CShapRefactoring.dll
+C:\Users\efuentes\OneDrive\@Dev\refactoring-csharp\CShapRefactoring\CShapRefactoring\obj\Debug\CShapRefactoring.pdb
+C:\Users\alumno\Desktop\CShapRefactoring - init\CShapRefactoring\bin\Debug\CShapRefactoring.dll
+C:\Users\alumno\Desktop\CShapRefactoring - init\CShapRefactoring\bin\Debug\CShapRefactoring.pdb
+C:\Users\alumno\Desktop\CShapRefactoring - init\CShapRefactoring\obj\Debug\CShapRefactoring.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\CShapRefactoring - init\CShapRefactoring\obj\Debug\CShapRefactoring.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\CShapRefactoring - init\CShapRefactoring\obj\Debug\CShapRefactoring.dll
+C:\Users\alumno\Desktop\CShapRefactoring - init\CShapRefactoring\obj\Debug\CShapRefactoring.pdb
+I:\VS_workplace\CShapRefactoring - init\CShapRefactoring\obj\Debug\CShapRefactoring.csproj.CoreCompileInputs.cache
+I:\VS_workplace\CShapRefactoring - init\CShapRefactoring\bin\Debug\CShapRefactoring.exe
+I:\VS_workplace\CShapRefactoring - init\CShapRefactoring\bin\Debug\CShapRefactoring.pdb
+I:\VS_workplace\CShapRefactoring - init\CShapRefactoring\obj\Debug\CShapRefactoring.exe
+I:\VS_workplace\CShapRefactoring - init\CShapRefactoring\obj\Debug\CShapRefactoring.pdb
